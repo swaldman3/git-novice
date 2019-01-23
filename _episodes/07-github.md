@@ -98,7 +98,7 @@ difference should be your username instead of `vlad`.
 
 `origin` is a local name used to refer to the remote repository. It could be called
 anything, but `origin` is a convention that is often used by default in git
-and github, so it's helpful to stick with this unless there's a reason not to.
+and GitHub, so it's helpful to stick with this unless there's a reason not to.
 
 We can check that the command has worked by running `git remote -v`:
 
